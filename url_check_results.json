@@ -1,0 +1,46 @@
+[
+    {
+        "url": "https://www.google.com",
+        "status": "Safe",
+        "raw_response": {}
+    },
+    {
+        "url": "https://www.wikipedia.org",
+        "status": "Safe",
+        "raw_response": {}
+    },
+    {
+        "url": "http://testsafebrowsing.appspot.com/s/malware.html",
+        "status": "Unsafe",
+        "raw_response": {
+            "matches": [
+                {
+                    "threatType": "MALWARE",
+                    "platformType": "ANY_PLATFORM",
+                    "threat": {
+                        "url": "http://testsafebrowsing.appspot.com/s/malware.html"
+                    },
+                    "cacheDuration": "300s",
+                    "threatEntryType": "URL"
+                }
+            ]
+        }
+    },
+    {
+        "url": "http://testsafebrowsing.appspot.com/s/phishing.html",
+        "status": "Unsafe",
+        "raw_response": {
+            "matches": [
+                {
+                    "threatType": "SOCIAL_ENGINEERING",
+                    "platformType": "ANY_PLATFORM",
+                    "threat": {
+                        "url": "http://testsafebrowsing.appspot.com/s/phishing.html"
+                    },
+                    "cacheDuration": "300s",
+                    "threatEntryType": "URL"
+                }
+            ]
+        }
+    }
+]
