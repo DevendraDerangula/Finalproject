@@ -1,9 +1,10 @@
 # Finalproject1. 
 1. The kind of data you want to find
-I will collect restaurant data such as:Restaurant names,Ratings,Location
+I collected URL safety data using an API. The data includes information about whether a given website link is safe or potentially harmful (such as phishing or malware).
 2. The question/s you want to answer with the data.
-What are the top-rated restaurants near me?
-Which restaurants have ratings above 4.0?
-How many highly rated restaurants are available?
+Which URLs are safe to visit?
+Which URLs are unsafe or potentially malicious?
+How many URLs fall into safe vs unsafe categories?
 3. URLs for the site/s that have the data you want.
-URL: https://www.yelp.com/developers/documentation/v3/get_started
+The data was collected using the Google Safe Browsing API: https://developers.google.com/safe-browsing
+This API checks URLs against known lists of unsafe web resources such as phishing and malware sites.
