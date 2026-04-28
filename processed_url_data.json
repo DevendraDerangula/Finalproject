@@ -1,0 +1,603 @@
+[
+    {
+        "url": "https://www.bbc.com/weather",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 27
+    },
+    {
+        "url": "http://raunak1022.github.io/my-first-project",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 44
+    },
+    {
+        "url": "https://www.bbc.com/newsletters",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 31
+    },
+    {
+        "url": "https://verifyverifying-44024c.webflow.io/",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 42
+    },
+    {
+        "url": "https://www.bbc.com/audio",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 25
+    },
+    {
+        "url": "https://ledgercomstart.vercel.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 34
+    },
+    {
+        "url": "https://www.bbc.com/video/docs",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 30
+    },
+    {
+        "url": "http://www.ledgercomstart.vercel.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 37
+    },
+    {
+        "url": "https://www.bbc.com/news",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 24
+    },
+    {
+        "url": "http://healthyemployee.me/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 90
+    },
+    {
+        "url": "https://www.bbc.com/video",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 25
+    },
+    {
+        "url": "https://anushkakarmakar-14.github.io/Netflix-Clone/",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 51
+    },
+    {
+        "url": "https://www.bbc.com/sport",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 25
+    },
+    {
+        "url": "https://connect-partner.credit-agency-meta.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 47
+    },
+    {
+        "url": "https://www.bbc.com/news/topics/c8qx38nqx4qt",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 44
+    },
+    {
+        "url": "https://abdurahmonabdus2011-collab.github.io/aduraksmon-2",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 57
+    },
+    {
+        "url": "https://www.bbc.com/culture/tags/in-history",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 43
+    },
+    {
+        "url": "https://authsso.productoselbosque.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 38
+    },
+    {
+        "url": "https://www.bbc.com/news/us-canada",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 34
+    },
+    {
+        "url": "http://lnamty.github.io/Spotify-Landing-Page",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 44
+    },
+    {
+        "url": "https://www.bbc.com/news/world",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 30
+    },
+    {
+        "url": "http://enrichsupplies.com/admin",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 31
+    },
+    {
+        "url": "https://www.bbc.com/business",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 28
+    },
+    {
+        "url": "https://netflix-clone-plum-two.vercel.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 42
+    },
+    {
+        "url": "https://www.bbc.com/audio/category/sport",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 40
+    },
+    {
+        "url": "http://roblox.com.bn/users/602144286077/profile",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 47
+    },
+    {
+        "url": "https://www.bbc.com/technology",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 30
+    },
+    {
+        "url": "https://a.gobookroom.com/login",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 30
+    },
+    {
+        "url": "https://www.bbc.com/innovation/science",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 38
+    },
+    {
+        "url": "http://geminei-logi.godaddysites.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 37
+    },
+    {
+        "url": "https://www.bbc.com/culture",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 27
+    },
+    {
+        "url": "https://partner-signup.program-accounts-agency.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 51
+    },
+    {
+        "url": "https://www.bbc.com/arts",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 24
+    },
+    {
+        "url": "https://kidtd12.github.io/Netflix-clone/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 40
+    },
+    {
+        "url": "https://www.bbc.com/travel",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 26
+    },
+    {
+        "url": "https://amazon-cloned2025.netlify.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 38
+    },
+    {
+        "url": "https://www.bbc.com/travel/worlds-table",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 39
+    },
+    {
+        "url": "http://www.us-trezzriostart.weebly.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 39
+    },
+    {
+        "url": "https://www.bbc.com/future-planet",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 33
+    },
+    {
+        "url": "http://usa_gamini-ushelp.godaddysites.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 42
+    },
+    {
+        "url": "https://www.bbc.com/newsletters?futureearth&at_bbc_team=studios&at_medium=display&at_objective=acquisition&at_ptr_type=&at_ptr_name=bbc.comhp&at_format=Module&at_link_origin=homepage&at_campaign=essentiallist&at_campaign_type=owned",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 231
+    },
+    {
+        "url": "http://uphuld-loggun.godaddysites.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 38
+    },
+    {
+        "url": "https://www.bbc.com/pages/download-the-bbc-app",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 46
+    },
+    {
+        "url": "https://maurya-tanmay.github.io/landing-page/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 45
+    },
+    {
+        "url": "https://www.bbc.com/newsletters?uselectionunspun&at_bbc_team=studios&at_medium=display&at_objective=acquisition&at_ptr_type=&at_ptr_name=bbc.comhp&at_format=Module&at_link_origin=homepage&at_campaign=newsbriefing&at_campaign_type=owned",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 235
+    },
+    {
+        "url": "http://navfeedbacknfcu.wasmer.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 34
+    },
+    {
+        "url": "https://session.bbc.com/session?userOrigin=BBCS_BBC&ptrt=https%3A%2F%2Fwww.bbc.com%2F",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 85
+    },
+    {
+        "url": "https://saniyamaner786.github.io/CSS_AMAZON_CLONE/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 50
+    },
+    {
+        "url": "https://cloud.email.bbc.com/TheEssentialList_Newsletter_Signup?&at_bbc_team=studios&at_medium=display&at_objective=acquisition&at_ptr_type=&at_ptr_name=bbc.comhp&at_format=Module&at_link_origin=homepage&at_campaign=essentiallist&at_campaign_type=owned",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 251
+    },
+    {
+        "url": "http://wwwdd.vercel.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 24
+    },
+    {
+        "url": "https://www.bbc.com/",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 20
+    },
+    {
+        "url": "https://abhiishx-ai.github.io/Netflix-Clone/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 44
+    },
+    {
+        "url": "https://shop.bbc.com/",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 21
+    },
+    {
+        "url": "https://amazon-clone-frontend-ten.vercel.app/product/8",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 54
+    },
+    {
+        "url": "https://www.britbox.com/?utm_source=bbc.com&utm_medium=referral&utm_campaign=footer",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 83
+    },
+    {
+        "url": "http://www.amazon-clone-frontend-ten.vercel.app/product/8",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 57
+    },
+    {
+        "url": "https://www.bbc.com/afaanoromoo",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 31
+    },
+    {
+        "url": "http://thezombieapocolypse.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 95
+    },
+    {
+        "url": "https://www.bbc.com/amharic",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 27
+    },
+    {
+        "url": "https://businessrehab.theownerconsultant.com/aaaaaaaaaaaaaaaieiouoiuuoieouieoiueouioiu.html",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 91
+    },
+    {
+        "url": "https://www.bbc.com/arabic",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 26
+    },
+    {
+        "url": "http://sxghrfsertt6yuer5rtgdhf-strhg5y4wsz.vercel.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 54
+    },
+    {
+        "url": "https://www.bbc.com/azeri",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 25
+    },
+    {
+        "url": "https://partner-invoice.credit-agency-meta.com/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 47
+    },
+    {
+        "url": "https://www.bbc.com/bengali",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 27
+    },
+    {
+        "url": "https://verify.itpatches.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 93
+    },
+    {
+        "url": "https://www.bbc.com/burmese",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 27
+    },
+    {
+        "url": "http://xj-instagram.vercel.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 31
+    },
+    {
+        "url": "https://www.bbc.com/zhongwen/simp",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 33
+    },
+    {
+        "url": "https://edificiobordon.com.br/.docs",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 35
+    },
+    {
+        "url": "https://www.bbc.com/dari",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 24
+    },
+    {
+        "url": "http://icloud-keychain-customer-support-number.pages.dev/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 57
+    },
+    {
+        "url": "https://www.bbc.com/afrique",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 27
+    },
+    {
+        "url": "https://execboardcocacola.br-gru-1.linodeobjects.com/validate.html",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 66
+    },
+    {
+        "url": "https://www.bbc.com/hausa",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 25
+    },
+    {
+        "url": "http://netflix-kaulitz-staffel-2.pages.dev/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 43
+    },
+    {
+        "url": "https://www.bbc.com/hindi",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 25
+    },
+    {
+        "url": "https://popstesco.wasmer.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 29
+    },
+    {
+        "url": "https://www.bbc.com/naidheachdan",
+        "expected_label": "Safe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 32
+    },
+    {
+        "url": "http://airbnb-project.vercel.app/",
+        "expected_label": "Unsafe",
+        "detected_status": "Safe",
+        "detected_threats": [],
+        "url_length": 33
+    },
+    {
+        "url": "http://testsafebrowsing.appspot.com/s/phishing.html",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "SOCIAL_ENGINEERING"
+        ],
+        "url_length": 51
+    },
+    {
+        "url": "http://testsafebrowsing.appspot.com/s/malware.html",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "MALWARE"
+        ],
+        "url_length": 50
+    },
+    {
+        "url": "http://testsafebrowsing.appspot.com/s/unwanted.html",
+        "expected_label": "Unsafe",
+        "detected_status": "Unsafe",
+        "detected_threats": [
+            "UNWANTED_SOFTWARE"
+        ],
+        "url_length": 51
+    }
+]
